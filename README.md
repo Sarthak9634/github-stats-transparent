@@ -4,7 +4,7 @@ Actions.
 
 <a href="https://github.com/Sarthak9634/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://github.com/Sarthak9634/github-stats-transparent/blob/main/src/templates/overview.svg)
 ![](https://github.com/Sarthak9634/github-stats-transparent/blob/main/src/templates/languages.svg)
 
 </a>
